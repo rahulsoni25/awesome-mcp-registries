@@ -41,6 +41,7 @@ These crawl public GitHub and hosted endpoints automatically — you mainly need
 - [Glama](https://glama.ai/mcp/servers) — Large registry + inspector that auto-indexes open-source servers from GitHub, extracts every tool/schema/annotation, and assigns a quality score. Claim your server to manage its listing and badge.
 - [PulseMCP](https://www.pulsemcp.com/) — Actively maintained directory with fast updates and strong support for remote HTTP servers. Submit at [pulsemcp.com/submit](https://www.pulsemcp.com/submit).
 - [mcp.so](https://mcp.so/) — One of the largest, high-traffic MCP directories. Submit via the web form at [mcp.so/submit](https://mcp.so/submit).
+- [WorkflowStacks](https://workflowstacks.com/) — Free marketplace that auto-indexes open-source AI skills, MCP servers and agents from GitHub and ranks them by 7-day star growth; also exposes the catalog as a remote MCP server.
 
 ## Submission-Based Directories & Registries
 
